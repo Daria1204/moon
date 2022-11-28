@@ -1,4 +1,5 @@
 // заголовочный файл funcs.h
+//Hi!
 
 #define __FUNCS_H__
 
